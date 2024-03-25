@@ -6,3 +6,4 @@ var c = true;
 var e = "USA";
 var f = 10.9;
 var g = false;
+console.log(a + b + c);
